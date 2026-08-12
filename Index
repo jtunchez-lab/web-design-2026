@@ -1,1 +1,21 @@
 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>My first website</title>
+
+  <link rel="icon" href="/windex/icons/folder.svg" type="image/svg+xml">
+
+  <link rel="stylesheet" href="/windex/windex.css" />
+
+ 
+
+</head>
+<body>
+
+  <div class="container">
+
+    <h1>Index</h1>
