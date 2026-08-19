@@ -4,6 +4,7 @@
   font-weight: 400;
   font-style: normal;
 }
+.container { display: flex; }
 h1{
   color: #16425b;  
   font-family: 'Archivo Black', sans-serif;
