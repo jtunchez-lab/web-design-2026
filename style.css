@@ -16,5 +16,6 @@ p{
   font-family: 'Archivo Black', sans-serif;
   
 }
+@import "tailwindcss";
 
 <body style="background-color: #81c3d7;">
