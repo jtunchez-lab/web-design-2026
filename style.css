@@ -1,23 +1,60 @@
-
 .archivo-black-regular {
   font-family: "Archivo Black", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
-.container { display: flex; gap: 100px; }
-h1{
-  color: #16425b;  
-  font-family: 'Archivo Black', sans-serif;
-  font-size: 48px;
+
+body {
+  background-color: #81c3d7;
+  margin: 0;
+  padding: 20px;
 }
 
-p{
-  color: #6096ba
-  font-family: 'Archivo Black', sans-serif;
-  
+.container {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
 }
+
+h1 {
+  color: #16425b;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  color: #16425b;
+  font-family: 'Archivo Black', sans-serif;
+}
+
+p {
+  color: #16425b;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
 .center-text {
   text-align: center;
 }
 
-<body style="background-color: #81c3d7;">
+.box {
+  background-color: #16425b;
+  color: white;
+  padding: 25px;
+  width: 50px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+section {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+}
