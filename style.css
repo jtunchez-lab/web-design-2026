@@ -80,8 +80,8 @@ footer {
 }
 
 .box img {
-  width: 60px !important;
-  height: 60px !important;
+  width: 100px !important;
+  height: 100px !important;
   object-fit: cover;
   margin: 5px;
 }
