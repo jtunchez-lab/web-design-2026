@@ -52,7 +52,7 @@ section {
   background-color: #16425b;
   color: white;
   padding: 20px;
-  width: 120px;
+  width: 500px;
   text-align: center;
   border-radius: 10px;
 }
@@ -80,8 +80,8 @@ footer {
 }
 
 .box img {
-  width: 200px !important;
-  height: 200px !important;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   margin: 5px;
 }
