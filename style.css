@@ -22,6 +22,14 @@ header {
   justify-content: center;
 }
 
+.box img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin: 5px;
+  border-radius: 5px;
+}
+
 h1 {
   color: #16425b;
   font-family: 'Archivo Black', sans-serif;
